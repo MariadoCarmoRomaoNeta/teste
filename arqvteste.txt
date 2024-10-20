@@ -1,2 +1,3 @@
 Arquivo para 1° commit.
 commit2
+commitfim
